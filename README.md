@@ -1,5 +1,5 @@
 ## Lab:
-In this lab, you will create functions to display all users, display one user by first_name.
+In this lab, you will create functions to display all users
 
 ## Requirements:
 1. Create a Dart project
